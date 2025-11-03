@@ -204,7 +204,7 @@ color: #404BBF;
 }
 
 .team-item img {
-    border-radius: 0px 0px 4px 4px;
+    border-radius: 0 0 4px 4px;
 }
 
 .team-name {
